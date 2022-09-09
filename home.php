@@ -48,3 +48,6 @@ if(!isset($_SESSION['user_email'])){
 </div>
 </body>
 </html>
+
+
+<!-- This is a new comment by Vijay -->
